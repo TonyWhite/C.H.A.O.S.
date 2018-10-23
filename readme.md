@@ -73,4 +73,4 @@ ___
 
 * [Wiki](https://github.com/TonyWhite/Cypher-GTK/wiki)
 * [Older versions](https://github.com/TonyWhite/Cypher-GTK/tree/master/packages/)
-* [License GPL3](https://github.com/TonyWhite/Cypher-GTK/blob/master/license.md)
+* [License GPL3](https://github.com/TonyWhite/Cypher-GTK/blob/master/license.md#gnu-general-public-license)
