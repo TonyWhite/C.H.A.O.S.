@@ -35,7 +35,9 @@
 [coming_soon_package_icon]: https://icongr.am/octicons/clock.svg?size=24&color=00AAFF
 [no_package_icon]: https://icongr.am/octicons/circle-slash.svg?size=24&color=AA0000
 
-# ![][application_logo] Cypher GTK
+# Cypher GTK
+
+![][application_logo]
 
 ### Advanced Cypher for Common User
 
