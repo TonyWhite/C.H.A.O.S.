@@ -11,6 +11,7 @@
 
 [#]: # (OS logos)
 [linux_logo]: https://icongr.am/devicon/linux-original.svg?size=96
+[archlinux_logo]: https://icongr.am/material/arch.svg?size=96&color=0090ff
 [debian_logo]: https://icongr.am/devicon/debian-original.svg?size=96
 [redhat_logo]: https://icongr.am/devicon/redhat-original.svg?size=96
 [windows_logo]: https://icongr.am/devicon/windows8-original.svg?size=96
@@ -26,9 +27,9 @@
 
 ## Select OS
 
-|**Logo**|![debian_logo]|![redhat_logo]|![windows_logo]|![macOS_logo]|
-|:-|:-:|:-:|:-:|:-:|
-|**Name**|**Debian**|**RedHat**|**Windows**|**macOS**|
-|**File format**|.deb|.rpm|.exe|.dmg|
-|**32 bit Package**|![no_package_icon]<br>not available|![no_package_icon]<br>not available|![no_package_icon]<br>not available|![no_package_icon]<br>not available|
-|**64 bit Package**|![coming_soon_package_icon]<br>coming soon|![coming_soon_package_icon]<br>coming soon|![no_package_icon]<br>not available|![no_package_icon]<br>not available|
+|**Logo**|![archlinux_logo]|![debian_logo]|![redhat_logo]|![windows_logo]|![macOS_logo]|
+|:-|:-:|:-:|:-:|:-:|:-:|
+|**Name**|**Arch Linux**|**Debian**|**RedHat**|**Windows**|**macOS**|
+|**File format**|.pkg|.deb|.rpm|.exe|.dmg|
+|**32 bit Package**|![coming_soon_package_icon]<br>coming soon|![coming_soon_package_icon]<br>coming soon|![coming_soon_package_icon]<br>coming soon|![no_package_icon]<br>not available|![no_package_icon]<br>not available|
+|**64 bit Package**|![coming_soon_package_icon]<br>coming soon|![coming_soon_package_icon]<br>coming soon|![coming_soon_package_icon]<br>coming soon|![no_package_icon]<br>not available|![no_package_icon]<br>not available|

@@ -26,6 +26,7 @@
 
 [#]: # (Download icons)
 [package_icon]: https://icongr.am/octicons/package.svg?size=24
+[archlinux_icon]: https://icongr.am/material/arch.svg?size=24&color=0090ff
 [debian_icon]: https://icongr.am/devicon/debian-original.svg?size=24
 [redhat_icon]: https://icongr.am/devicon/redhat-original.svg?size=24
 [windows_icon]: https://icongr.am/devicon/windows8-original.svg?size=24
@@ -54,8 +55,9 @@ ___
 
 |![package_icon] Package|32 bit|64 bit|
 |---|:---:|:---:|
-|![debian_icon] **Debian**|![no_package_icon]|![coming_soon_package_icon]|
-|![redhat_icon] **RedHat**|![no_package_icon]|![coming_soon_package_icon]|
+|![archlinux_icon] **Arch Linux**|![coming_soon_package_icon]|![coming_soon_package_icon]|
+|![debian_icon] **Debian**|![coming_soon_package_icon]|![coming_soon_package_icon]|
+|![redhat_icon] **RedHat**|![coming_soon_package_icon]|![coming_soon_package_icon]|
 |![windows_icon] ***Windows***|![no_package_icon]|![no_package_icon]|
 |![macOS_icon] ***macOS***|![no_package_icon]|![no_package_icon]|
 
