@@ -30,6 +30,6 @@
 |**Logo**|![archlinux_logo]|![debian_logo]|![redhat_logo]|![windows_logo]|![macOS_logo]|
 |:-|:-:|:-:|:-:|:-:|:-:|
 |**Name**|**Arch Linux**|**Debian**|**RedHat**|**Windows**|**macOS**|
-|**File format**|.pkg|.deb|.rpm|.exe|.dmg|
+|**File format**|.pkg.tar.xz|.deb|.rpm|.exe|.dmg|
 |**32 bit Package**|![coming_soon_package_icon]<br>coming soon|![coming_soon_package_icon]<br>coming soon|![coming_soon_package_icon]<br>coming soon|![no_package_icon]<br>not available|![no_package_icon]<br>not available|
 |**64 bit Package**|![coming_soon_package_icon]<br>coming soon|![coming_soon_package_icon]<br>coming soon|![coming_soon_package_icon]<br>coming soon|![no_package_icon]<br>not available|![no_package_icon]<br>not available|
