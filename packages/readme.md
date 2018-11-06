@@ -28,7 +28,7 @@
 
 |**Logo**|![debian_logo]|![redhat_logo]|![windows_logo]|![macOS_logo]|
 |:-|:-:|:-:|:-:|:-:|
-|**Name**|Debian|RedHat|Windows|macOS|
+|**Name**|**Debian**|**RedHat**|**Windows**|**macOS**|
 |**File format**|.deb|.rpm|.exe|.dmg|
 |**32 bit Package**|![no_package_icon]<br>not available|![no_package_icon]<br>not available|![no_package_icon]<br>not available|![no_package_icon]<br>not available|
 |**64 bit Package**|![coming_soon_package_icon]<br>coming soon|![coming_soon_package_icon]<br>coming soon|![no_package_icon]<br>not available|![no_package_icon]<br>not available|
