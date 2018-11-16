@@ -5,14 +5,14 @@
 [GPL3_little]: https://www.gnu.org/graphics/gplv3-88x31.png
 
 [#]: # (Application logos)
-[application_logo]: https://raw.githubusercontent.com/TonyWhite/Cypher-GTK/master/media/cypher-gtk.svg?sanitize=true
-[application_logo_plain]: https://raw.githubusercontent.com/TonyWhite/Cypher-GTK/master/media/cypher-gtk-plain.svg?sanitize=true
-[application_logo_outline]: https://raw.githubusercontent.com/TonyWhite/Cypher-GTK/master/media/cypher-gtk-outline.svg?sanitize=true
+[application_logo]: https://raw.githubusercontent.com/TonyWhite/C.H.A.O.S./master/media/img/cypher-gtk.svg?sanitize=true
+[application_logo_plain]: https://raw.githubusercontent.com/TonyWhite/C.H.A.O.S./master/media/img/cypher-gtk-plain.svg?sanitize=true
+[application_logo_outline]: https://raw.githubusercontent.com/TonyWhite/C.H.A.O.S./master/media/img/cypher-gtk-outline.svg?sanitize=true
 
 [#]: # (Technologies logos)
-[C++]: https://raw.githubusercontent.com/TonyWhite/Cypher-GTK/master/media/C%2B%2B.svg?sanitize=true
-[GTK+]: https://raw.githubusercontent.com/TonyWhite/Cypher-GTK/master/media/GTK%2B.svg?sanitize=true
-[GnuTLS]: https://raw.githubusercontent.com/TonyWhite/Cypher-GTK/master/media/gnutls.svg?sanitize=true
+[C++]: https://raw.githubusercontent.com/TonyWhite/C.H.A.O.S./master/media/img/C%2B%2B.svg?sanitize=true
+[GTK+]: https://raw.githubusercontent.com/TonyWhite/C.H.A.O.S./master/media/img/GTK%2B.svg?sanitize=true
+[GnuTLS]: https://raw.githubusercontent.com/TonyWhite/C.H.A.O.S./master/media/img/gnutls.svg?sanitize=true
 
 [#]: # (Paragraph icons)
 [link_icon]: https://icongr.am/octicons/link.svg?size=24
@@ -36,11 +36,11 @@
 [coming_soon_package_icon]: https://icongr.am/octicons/clock.svg?size=24&color=00AAFF
 [no_package_icon]: https://icongr.am/octicons/circle-slash.svg?size=24&color=AA0000
 
-# Cypher GTK
+C.H.A.O.S. (Chaos Hide All Our Stuff)
+=====================================
+### Advanced Cypher for Common User
 
 ![][application_logo]
-
-### Advanced Cypher for Common User
 
 ![ok_icon] Simple to use
 
@@ -73,6 +73,6 @@ ___
 
 ## ![link_icon] Useful links
 
-* [Wiki](https://github.com/TonyWhite/Cypher-GTK/wiki)
-* [All packages](https://github.com/TonyWhite/Cypher-GTK/tree/master/packages/readme.md)
-* [License GPL3](https://github.com/TonyWhite/Cypher-GTK/blob/master/license.md#gnu-general-public-license)
+* [Wiki](https://github.com/TonyWhite/C.H.A.O.S./wiki)
+* [All packages](https://github.com/TonyWhite/C.H.A.O.S./tree/master/packages/readme.md)
+* [License GPL3](https://github.com/TonyWhite/C.H.A.O.S./blob/master/license.md#gnu-general-public-license)
