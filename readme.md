@@ -5,9 +5,9 @@
 [GPL3_little]: https://www.gnu.org/graphics/gplv3-88x31.png
 
 [#]: # (Application logos)
-[application_logo]: https://raw.githubusercontent.com/TonyWhite/C.H.A.O.S./master/media/img/cypher-gtk.svg?sanitize=true
-[application_logo_plain]: https://raw.githubusercontent.com/TonyWhite/C.H.A.O.S./master/media/img/cypher-gtk-plain.svg?sanitize=true
-[application_logo_outline]: https://raw.githubusercontent.com/TonyWhite/C.H.A.O.S./master/media/img/cypher-gtk-outline.svg?sanitize=true
+[application_logo]: https://raw.githubusercontent.com/TonyWhite/C.H.A.O.S./master/media/img/CHAOS.svg?sanitize=true
+[application_logo_plain]: https://raw.githubusercontent.com/TonyWhite/C.H.A.O.S./master/media/img/flat/CHAOS.svg?sanitize=true
+[application_logo_outline]: https://raw.githubusercontent.com/TonyWhite/C.H.A.O.S./master/media/img/high_contrast/CHAOS.svg?sanitize=true
 
 [#]: # (Technologies logos)
 [C++]: https://raw.githubusercontent.com/TonyWhite/C.H.A.O.S./master/media/img/C%2B%2B.svg?sanitize=true
