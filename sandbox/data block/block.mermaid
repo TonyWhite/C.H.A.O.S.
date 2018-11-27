@@ -1,0 +1,24 @@
+graph TB;
+
+START(START) --> INPUT_DATA[READ: data];
+INPUT_DATA --> INITIALIZATION[block_size = 16 Byte<br>data_length = data.length];
+INITIALIZATION --> CHECK_DATA_LENGTH{data_length>0};
+
+CHECK_DATA_LENGTH -- false --> EMPTY_DATA[INFO: Data is empty];
+EMPTY_DATA --> NODE_1(( ));
+
+CHECK_DATA_LENGTH -- true --> FULL_BLOCKS[full_blocks = data_length/block_size<br>last_data_block_length = data_length - full_blocks * block_size];
+FULL_BLOCKS --> CHECK_LAST_DATA_BLOCK_LENGTH{last_data_block_length>0};
+
+CHECK_LAST_DATA_BLOCK_LENGTH -- false --> OK_FULL_BLOCKS[INFO: Data contains only full blocks];
+OK_FULL_BLOCKS --> NODE_2(( ));
+
+CHECK_LAST_DATA_BLOCK_LENGTH -- true --> CALCULATE_LAST_BLOCK[bytes_left = block_size - last_data_block_length];
+CALCULATE_LAST_BLOCK --> PREPARE_REMAINING_DATA;
+PREPARE_REMAINING_DATA --> WRITE_REMAINING_DATA;
+WRITE_REMAINING_DATA --> NODE_2(( ));
+
+NODE_2 --> WRITE_CONTROL_BLOCK;
+WRITE_CONTROL_BLOCK --> NODE_1;
+NODE_1 --> RESULT[RETURN: adapted_data];
+RESULT --> END(END);
