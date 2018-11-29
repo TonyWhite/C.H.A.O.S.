@@ -1,9 +1,10 @@
-########################################
-# CALCULATE THE COMPLESSITY OF THE KEY #
-########################################
+CALCULATE THE COMPLESSITY OF THE KEY
+====================================
 
-This will be a tool on monitoring password security
+This will be a tool to monitoring password security
 
+## Select Cypher from password's length
+```
 Key < 128 bit
 [CONFIDENTIAL]
 
@@ -18,16 +19,17 @@ Key = 256 bit
 
 CONFIDENTIAL < 128 < SECRET < 192 < TOP SECRET < 256 < TOP SECRET
 
-Password
 ┏━━━━━━━━━━━━━━━┯━━━━━━━┯━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯
 ┃Emmenchial! Shfizzero? No, Novi.
 ┖───────────────┴───────┴───────┴───────────────────────────────┴
-               128     192     256                            2x256
+             AES128  AES192   AES256                          2x256
 ┌───────────────┬───────┬─────────╌┄┈
 │CONFIDENTIAL   │SECRET │TOP_SECRET →
 └───────────────┴───────┴─────────╌┄┈
+```
 
-
+## GUI
+```
 ╭─────────────────────────────────────────────────────────────────────╮
 │ C.H.A.O.S. ~ Check password                                         │
 ├─────────────────────────────────────────────────────────────────────┤
@@ -46,16 +48,21 @@ Password
 │  ┃Emmenchial! Shfizzero? No, Novi.                               │  │
 │  ┖───────────────────────────────────────────────────────────────┘  │
 └─────────────────────────────────────────────────────────────────────┘
+```
 
-// key length
+## Key length consts
+```c++
 const unsigned int GOOD_CONFIDENTIAL = 1; // At least  8 Bytes ( 64 bits)
 const unsigned int SECRET = 2;            // At least 16 Bytes (128 bits)
 const unsigned int TOP_SECRET_192 = 3;    // At least 24 Bytes (192 bits)
 const unsigned int TOP_SECRET_256 = 4;    // At least 32 Bytes (256 bits)
-unsigned int key_length = 0;
+```
 
-// Complexity
-unsigned int complexity = 0;
+
+## Complexity
+```c++
+unsigned int key_length = 0;  // User's key length
+unsigned int complexity = 0;  // Complexity of the key
 const unsigned char ascii_lowercase[26] =   {"a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"};
 const unsigned char ascii_uppercase[26] =   {"A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"};
 const unsigned char ascii_number[10] =      {"0", "1", "2", "3", "4", "5", "6", "7", "8", "9"};
@@ -79,3 +86,4 @@ unsigned int security_level = complexity + key_length;
 
 
 cout << "Security level: " << security_level << "/10" << endl;
+```
