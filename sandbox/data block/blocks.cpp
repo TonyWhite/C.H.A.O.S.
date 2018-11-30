@@ -59,8 +59,6 @@ int arrange_data(string &data, bool debug = false)
 int arrange_key(string &key, bool debug = false)
 {
   unsigned int aes_key_size[3] = {128, 192, 256}; // valid key size for AES-256
-  // Proposta: utilizzare solo chiavi da 256 bit
-  // Medoto:
   // 1- key <128 bit, add zeros to fill 128 bit. CONFIDENTIAL
   // 2- key =128 bit, use 128 bit key. SECRET
   // 3- key >128 & <192 bit, add zeros to fill 192 bit. SECRET
