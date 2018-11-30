@@ -5,27 +5,16 @@ This will be a tool to monitoring password security
 
 ## Select Cypher from password's length
 ```
-Key < 128 bit
-[CONFIDENTIAL]
-
-Key = 128 bit
-[SECRET]
-
-Key = 192 bit
-[TOP SECRET]
-
-Key = 256 bit
-[TOP SECRET]
-
-CONFIDENTIAL < 128 < SECRET < 192 < TOP SECRET < 256 < TOP SECRET
-
-┏━━━━━━━━━━━━━━━┯━━━━━━━┯━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯
-┃Emmenchial! Shfizzero? No, Novi.
-┖───────────────┴───────┴───────┴───────────────────────────────┴
-             AES128  AES192   AES256                          2x256
-┌───────────────┬───────┬─────────╌┄┈
-│CONFIDENTIAL   │SECRET │TOP_SECRET →
-└───────────────┴───────┴─────────╌┄┈
+1      8      16      24      32  Byte
+·······↓·······↓·······↓·······↓
+Emmenchial! Shfizzero? No, Novi.
+·······↑·······↑·······↑·······↑
+8     64      128     192     256 Bit
+·······↓·······↓·······↓·······↓
+████████░░░░░░░░░░░░░░░░░░░░░░░░ CONFIDENTIAL with half AES 128
+████████████████░░░░░░░░░░░░░░░░ SECRET with AES 128
+████████████████████████░░░░░░░░ TOP SECRET with AES 192
+████████████████████████████████ TOP SECRET with AES 256
 ```
 
 ## GUI
