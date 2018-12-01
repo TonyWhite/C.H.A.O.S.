@@ -31,3 +31,5 @@ Data arranged with control block at start (32 Bytes)
 Data arranged with control block at end (32 Bytes)
 ████████░░░░░░░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
+## Algorythm
+![block.mermaid.png](https://raw.githubusercontent.com/TonyWhite/C.H.A.O.S./master/sandbox/data%20block/block.mermaid.png)
