@@ -1,5 +1,5 @@
-Arrange data to be a multiple of 64 bit
-=======================================
+Arrange data to be a multiple of 128 bits
+=========================================
 
 Methods to prevent bad input in AES Cypher
 
