@@ -16,7 +16,7 @@
 
 [#]: # (Paragraph icons)
 [link_icon]: https://icongr.am/octicons/link.svg?size=24
-[download_icon]: https://icongr.am/octicons/cloud-download.svg?size=24
+[download_icon]: https://icongr.am/octicons/download.svg?size=24
 
 [#]: # (Presentation icons)
 [ok_icon]: https://icongr.am/material/thumb-up-outline.svg?size=24
