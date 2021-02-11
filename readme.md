@@ -29,6 +29,7 @@
 [archlinux_icon]: https://icongr.am/material/arch.svg?size=24&color=0090ff
 [debian_icon]: https://icongr.am/devicon/debian-original.svg?size=24
 [redhat_icon]: https://icongr.am/devicon/redhat-original.svg?size=24
+[cloud_icon]: https://icongr.am/material/cloud-outline.svg?size=24
 [windows_icon]: https://icongr.am/devicon/windows8-original.svg?size=24
 [macOS_icon]: https://icongr.am/devicon/apple-original.svg?size=24
 [verified_package_icon]: https://icongr.am/octicons/verified.svg?size=24&color=00AA00
@@ -60,10 +61,11 @@ ___
 |![redhat_icon] **RedHat**|![coming_soon_package_icon]|![coming_soon_package_icon]|
 |![windows_icon] ***Windows***|![no_package_icon]|![no_package_icon]|
 |![macOS_icon] ***macOS***|![no_package_icon]|![no_package_icon]|
+|![cloud_icon] **WebApp**|![coming_soon_package_icon]|![coming_soon_package_icon]|
 
 > ### Package
 >
->![verified_package_icon] _**Verified**_
+>![verified_package_icon] _**Stable & Verified**_
 >
 >![beta_package_icon] _**Beta**_
 >
