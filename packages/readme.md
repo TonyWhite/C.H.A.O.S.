@@ -30,7 +30,11 @@
 
 |**Logo**|![archlinux_logo]|![debian_logo]|![redhat_logo]|![windows_logo]|![macOS_logo]|![cloud_icon]|
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|
-|**Name**|**Arch Linux**|**Debian**|**RedHat**|**Windows**|**macOS**|**WebApp**|
+|**Name**|**Arch Linux**|**Debian**|**RedHat**|**Windows**|**macOS**|**Web App**|
 |**File format**|.pkg.tar.xz|.deb|.rpm|.exe|.dmg|.html|
 |**32 bit Package**|![coming_soon_package_icon]<br>coming soon|![coming_soon_package_icon]<br>coming soon|![coming_soon_package_icon]<br>coming soon|![no_package_icon]<br>not available|![no_package_icon]<br>not available|![coming_soon_package_icon]<br>coming soon|
 |**64 bit Package**|![coming_soon_package_icon]<br>coming soon|![coming_soon_package_icon]<br>coming soon|![coming_soon_package_icon]<br>coming soon|![no_package_icon]<br>not available|![no_package_icon]<br>not available|![coming_soon_package_icon]<br>coming soon|
+
+### Next goal
+
+Create a CPU architecture independent application. With GJS is possible?
