@@ -61,7 +61,7 @@ ___
 |![redhat_icon] **RedHat**|![coming_soon_package_icon]|![coming_soon_package_icon]|
 |![windows_icon] ***Windows***|![no_package_icon]|![no_package_icon]|
 |![macOS_icon] ***macOS***|![no_package_icon]|![no_package_icon]|
-|![cloud_icon] **WebApp**|![coming_soon_package_icon]|![coming_soon_package_icon]|
+|![cloud_icon] **Web App**|![coming_soon_package_icon]|![coming_soon_package_icon]|
 
 > ### Package
 >
