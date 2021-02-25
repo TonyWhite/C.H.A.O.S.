@@ -43,11 +43,11 @@ C.H.A.O.S.
 
 ![][application_logo]
 
-![ok_icon] Simple to use
+![ok_icon] User Friendly
 
-![filelock_icon] Protect your Data
+![filelock_icon] Zero Knowledge System
 
-![security_icon] The best Advanced Cypher Algorithm
+![security_icon] AES-256 Algorithm
 
 ![money_icon] Free for Personal and Commercial use
 ___
