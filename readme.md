@@ -37,9 +37,9 @@
 [coming_soon_package_icon]: https://icongr.am/octicons/clock.svg?size=24&color=00AAFF
 [no_package_icon]: https://icongr.am/octicons/circle-slash.svg?size=24&color=AA0000
 
-C.H.A.O.S. (Chaos Hides All Our Stuff)
+C.H.A.O.S.
 ======================================
-### Advanced Cypher for Common User
+### Chaos Hides All Our Stuff
 
 ![][application_logo]
 
