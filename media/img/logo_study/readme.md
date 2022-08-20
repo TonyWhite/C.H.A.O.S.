@@ -12,7 +12,7 @@ C.H.A.O.S. ~ Logo Study
 
 ## The History
 
-Brainstorm [here](https://bubs.altervista.org/index.php?topic=1275.msg248393#msg248393).
+Brainstorm [here](https://bubs.altervista.org) in private thread.
 
 The first logo summarizes the concept of security (shield) and protection (padlock).
 
