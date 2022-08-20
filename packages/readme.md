@@ -29,7 +29,7 @@
 ## Select OS
 
 |**Logo**|![archlinux_logo]|![debian_logo]|![redhat_logo]|![windows_logo]|![macOS_logo]|![cloud_icon]|
-|:-|:-:|:-:|:-:|:-:|:-:|:-:|
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|
 |**Name**|**Arch Linux**|**Debian**|**RedHat**|**Windows**|**macOS**|**Web App**|
 |**File format**|.pkg.tar.xz|.deb|.rpm|.exe|.dmg|.html|
 |**32 bit Package**|![coming_soon_package_icon]<br>coming soon|![coming_soon_package_icon]<br>coming soon|![coming_soon_package_icon]<br>coming soon|![no_package_icon]<br>not available|![no_package_icon]<br>not available|![coming_soon_package_icon]<br>coming soon|
@@ -37,4 +37,8 @@
 
 ### Next goal
 
-Create a CPU architecture independent application. With GJS is possible?
+* Create a CPU architecture independent application. With Javascript is possible?<br>
+Yes, with [GJS](https://gitlab.gnome.org/GNOME/gjs) and [Electron](https://www.electronjs.org/). But I don't want to depend on third-party projects.
+* Create an OS independent source code. With C++ is possible?<br>
+Yes, using standard C++ libraries.
+* Can I use C++ source to build Android app? Yes.
