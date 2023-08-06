@@ -28,7 +28,7 @@
 [package_icon]: https://icongr.am/octicons/package.svg?size=24
 [archlinux_icon]: https://icongr.am/material/arch.svg?size=24&color=0090ff
 [debian_icon]: https://icongr.am/devicon/debian-original.svg?size=24
-[redhat_icon]: https://icongr.am/devicon/redhat-original.svg?size=24
+[fedora_icon]: https://icongr.am/material/fedora.svg?size=24&color=00295D
 [cloud_icon]: https://icongr.am/material/cloud-outline.svg?size=24
 [windows_icon]: https://icongr.am/devicon/windows8-original.svg?size=24
 [macOS_icon]: https://icongr.am/devicon/apple-original.svg?size=24
@@ -54,14 +54,14 @@ ___
 
 ## ![download_icon] Download
 
-|![package_icon] Package|32 bit|64 bit|
-|---|:---:|:---:|
-|![archlinux_icon] **Arch Linux**|![coming_soon_package_icon]|![coming_soon_package_icon]|
-|![debian_icon] **Debian**|![coming_soon_package_icon]|![coming_soon_package_icon]|
-|![redhat_icon] **RedHat**|![coming_soon_package_icon]|![coming_soon_package_icon]|
-|![windows_icon] ***Windows***|![no_package_icon]|![no_package_icon]|
-|![macOS_icon] ***macOS***|![no_package_icon]|![no_package_icon]|
-|![cloud_icon] **Web App**|![coming_soon_package_icon]|![coming_soon_package_icon]|
+|Platform|32 bit|64 bit|ARM|
+|---|:---:|:---:|:---:|
+|![archlinux_icon] **Arch Linux**|![coming_soon_package_icon]|![coming_soon_package_icon]||
+|![debian_icon] **Debian**|![coming_soon_package_icon]|![coming_soon_package_icon]||
+|![fedora_icon] **Fedora**|![coming_soon_package_icon]|![coming_soon_package_icon]||
+|![windows_icon] ***Windows***|![no_package_icon]|![no_package_icon]|![no_package_icon]|
+|![macOS_icon] ***macOS***|![no_package_icon]|![no_package_icon]|![no_package_icon]|
+|![cloud_icon] **Web App**|![no_package_icon]|![no_package_icon]|![coming_soon_package_icon]|
 
 > ### Package
 >
